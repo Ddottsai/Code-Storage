@@ -1,0 +1,242 @@
+{
+	"weight": {
+		"min":800,
+		"max":1000,
+		"num vals":5,
+		"step":None
+	},
+	"warea": {
+		"min":30,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"dragcalc": {
+		"min":1,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"cd": {
+		"min":0.03,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"elevation": {
+		"min":100,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"airtemp": {
+		"min":20,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"qnh": {
+		"min":1050,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"s": {
+		"min":6,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"p": {
+		"min":1,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"batteries": {
+		"min": 0,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"battcap": {
+		"min":2000,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"battri": {
+		"min":0.005,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"battv": {
+		"min":1.2,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"battccont": {
+		"min":10,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"battcmax": {
+		"min":12,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"battweight": {
+		"min":50,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"battdisc": {
+		"min":0.8,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"esc": {
+		"vals":[0]
+	},
+	"esccont": {
+		"min":90,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"escmax": {
+		"min":100,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"escri": {
+		"min":0.002,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"escweight": {
+		"min":40,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"cooling": {
+		"vals":["medium"]
+	},
+	"motor": {
+		"vals": ["actro"]
+	},
+	"type": {
+		"min":0,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorkv": {
+		"min":1000,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorio": {
+		"min":0.6,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorvio": {
+		"min":12,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorlimit": {
+		"min":200,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorlimittype": {
+		"vals":["w"]
+	},
+	"motorri": {
+		"min":0.005,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorlength": {
+		"min":10,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorpoles": {
+		"min":12,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"motorweight": {
+		"min":50,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"gear": {
+		"min":1.1,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"speed": {
+		"min":30,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"propeller": {
+		"vals":[0]
+	},
+	"pconst": {
+		"min":1.3,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"tconst": {
+		"min":0.9,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"proptwist": {
+		"vals": [5.0]
+	},
+	"diameter": {
+		"min":11,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"pitch": {
+		"min":7,
+		"max":None,
+		"num vals":None,
+		"step":None
+	},
+	"blades": {
+		"min":2,
+		"max":None,
+		"num vals":None,
+		"step":None
+	}
+}

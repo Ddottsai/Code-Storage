@@ -1,0 +1,6 @@
+weight,warea,dragcalc,cd,elevation,airtemp,qnh,s,p,batteries,battcap,battri,battv,battccont,battcmax,battweight,battdisc,esc,esccont,escmax,escri,escweight,cooling,motor,type,motorkv,motorio,motorvio,motorlimit,motorlimittype,motorri,motorlength,motorpoles,motorweight,gear,speed,propeller,pconst,tconst,proptwist,diameter,pitch,blades,torque
+800,30,1,0.03,100,20,1050,6,1,0,2000,0.005,1.2,10,12,50,0.8,0,90,100,0.002,40,medium,actro,0,1000,0.6,12,200,w,0.005,10,12,50,1.1,30,0,1.3,0.9,5.0,11,7,2,0.14
+850,30,1,0.03,100,20,1050,6,1,0,2000,0.005,1.2,10,12,50,0.8,0,90,100,0.002,40,medium,actro,0,1000,0.6,12,200,w,0.005,10,12,50,1.1,30,0,1.3,0.9,5.0,11,7,2,0.14
+900,30,1,0.03,100,20,1050,6,1,0,2000,0.005,1.2,10,12,50,0.8,0,90,100,0.002,40,medium,actro,0,1000,0.6,12,200,w,0.005,10,12,50,1.1,30,0,1.3,0.9,5.0,11,7,2,0.14
+950,30,1,0.03,100,20,1050,6,1,0,2000,0.005,1.2,10,12,50,0.8,0,90,100,0.002,40,medium,actro,0,1000,0.6,12,200,w,0.005,10,12,50,1.1,30,0,1.3,0.9,5.0,11,7,2,0.14
+1000,30,1,0.03,100,20,1050,6,1,0,2000,0.005,1.2,10,12,50,0.8,0,90,100,0.002,40,medium,actro,0,1000,0.6,12,200,w,0.005,10,12,50,1.1,30,0,1.3,0.9,5.0,11,7,2,0.14
