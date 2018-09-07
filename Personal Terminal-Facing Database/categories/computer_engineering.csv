@@ -1,0 +1,4 @@
+,date,family,keys,ref,ref type,summary,tags
+37,"August 15, 2018",aws,"['formal paper', 'trends', 'qualitative']",https://arxiv.org/pdf/1712.04771.pdf,url,Recent paper on the trends in Reconfigurable Hardware Accelerators.,['paper']
+63,"September 03, 2018",aws,"['paper', 'introduce splatt', 'introduce tensors']",https://pdfs.semanticscholar.org/f5e2/cb0ded84067f0376cdddab22dbc8a38b7f94.pdf,url,Paper introducing SPLATT.,"['tensor', 'cpd', 'splatt', 'paper']"
+64,"September 03, 2018",aws,"['paper', 'introduces dms with als']",http://glaros.dtc.umn.edu/gkhome/fetch/papers/dmsTR2015.pdf,url,Paper introducing DMS and applying it to Alternating Least Squares.,"['dms', 'tensor', 'splatt', 'paper']"
